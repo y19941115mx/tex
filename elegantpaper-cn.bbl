@@ -1,5 +1,35 @@
 \begin{thebibliography}{10}
 
+\bibitem{Balabanovic1997}
+Marko Balabanovi{\'{c}} and Yoav Shoham.
+\newblock {Fab: content-based, collaborative recommendation}.
+\newblock {\em Communications of the ACM}, 40(3):66--72, mar 2002.
+
+\bibitem{Jannach2013}
+Dietmar Jannach, Markus Zanker, Alexander Felfernig, Gerhard Friedrich, Dietmar
+  Jannach, Markus Zanker, Alexander Felfernig, and Gerhard Friedrich.
+\newblock {Content-based recommendation}.
+\newblock In {\em Recommender Systems}, pages 51--80. 2013.
+
+\bibitem{Meteren2000}
+Robin~Van Meteren and Maarten~Van Someren.
+\newblock {Using Content-Based Filtering for Recommendation}.
+\newblock In {\em Proceedings of the Machine Learning in the New Information
+  Age: MLnet/ECML2000 Workshop}, pages 47--56, 2000.
+
+\bibitem{Vig2008}
+Jesse Vig, Shilad Sen, and John Riedl.
+\newblock {Tagsplanations: Explaining Recommendations Using Tags}.
+\newblock {\em Proceedingsc of the 13th international conference on Intelligent
+  user interfaces - IUI '09}, 2008.
+
+\bibitem{Bhagavatula2018}
+Chandra Bhagavatula, Sergey Feldman, Russell Power, and Waleed Ammar.
+\newblock {Content-Based Citation Recommendation}.
+\newblock {\em Proceedings of the 2018 Conference of the North American Chapter
+  of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long Papers)}, pages 238--251, 2018.
+
 \bibitem{Linden2003}
 Greg Linden, Brent Smith, and Jeremy York.
 \newblock {Amazon.com recommendations: Item-to-item collaborative filtering}.
@@ -13,6 +43,11 @@ Catarina Miranda and Al{\'{i}}pio~M{\'{a}}rio Jorge.
   Lecture Notes in Artificial Intelligence and Lecture Notes in
   Bioinformatics)}, volume 5816 LNAI, pages 673--684, 2009.
 
+\bibitem{Sarwar2001a}
+Badrul Sarwar, George Karypis, Joseph Konstan, and J.~Riedl.
+\newblock {Item-based collaborative filtering recommendation algorithms}.
+\newblock {\em Proceedings of the 10th {\ldots}}, 2001.
+
 \bibitem{Su2009}
 Xiaoyuan Su and Taghi~M. Khoshgoftaar.
 \newblock {A Survey of Collaborative Filtering Techniques}.
@@ -25,10 +60,50 @@ Xiao~Peng Yu.
   Learning and Cybernetics}, volume~3, pages 1570--1576, New York, New York,
   USA, 2009. ACM Press.
 
+\bibitem{Salakhutdinov2007}
+R~Salakhutdinov and A~Mnih.
+\newblock {Probabilistic Matrix Factorization}.
+\newblock In {\em Proc. Advances in Neural Information Processing Systems 2007
+  (NIPS 07)}, 2007.
+
+\bibitem{Koren2009}
+Yehuda Koren, Robert Bell, and Chris Volinsky.
+\newblock {Matrix factorization techniques for recommender systems}.
+\newblock {\em Computer}, 42(8):30--37, aug 2009.
+
+\bibitem{Koren2008}
+Yehuda Koren.
+\newblock {Factorization meets the neighborhood: a multifaceted collaborative
+  filtering model}.
+\newblock In {\em Proceedings of the 14th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, 2008.
+
 \bibitem{Qiu2011}
 Tian Qiu, Guang Chen, Zi~Ke Zhang, and Tao Zhou.
 \newblock {An item-oriented recommendation algorithm on cold-start problem}.
 \newblock {\em EPL}, 95(5):58003, sep 2011.
+
+\bibitem{He2017a}
+Xiangnan He, Ming Gao, Min~Yen Kan, and Dingxian Wang.
+\newblock {BiRank: Towards Ranking on Bipartite Graphs}.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering}, 2017.
+
+\bibitem{He2017}
+Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, and Tat-Seng Chua.
+\newblock {Neural Collaborative Filtering}.
+\newblock {\em Proceedings of the 26th International Conference on World Wide
+  Web - WWW '17}, pages 173--182, 2017.
+
+\bibitem{Yu2018}
+Lu~Yu, Chuxu Zhang, Shichao Pei, Guolei Sun, and Xiangliang Zhang.
+\newblock {WalkRanker: A Unified Pairwise Ranking Model With Multiple Relations
+  for Item Recommendation}.
+\newblock {\em AAAI}, 2018.
+
+\bibitem{Pongnumkul2018}
+Suchit Pongnumkul and Kazuyuki Motohashi.
+\newblock {A bipartite fitness model for online music streaming services}.
+\newblock {\em Physica A: Statistical Mechanics and its Applications}, 2018.
 
 \bibitem{Grover2016}
 Aditya Grover and Jure Leskovec.
@@ -36,6 +111,18 @@ Aditya Grover and Jure Leskovec.
 \newblock In {\em Proceedings of the 22nd ACM SIGKDD International Conference
   on Knowledge Discovery and Data Mining - KDD '16}, pages 855--864, New York,
   New York, USA, 2016. ACM Press.
+
+\bibitem{Perozzi2014}
+Bryan Perozzi, Rami Al-Rfou, and Steven Skiena.
+\newblock {Deepwalk: Online learning of social representations}.
+\newblock In {\em Proceedings of the 20th ACM SIGKDD international conference
+  on Knowledge discovery and data mining - KDD '14}, pages 701--710, New York,
+  New York, USA, 2014. ACM Press.
+
+\bibitem{Liao2018}
+Lizi Liao, Xiangnan He, Hanwang Zhang, and Tat~Seng Chua.
+\newblock {Attributed Social Network Embedding}.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering}, 2018.
 
 \bibitem{Mikolov2013}
 Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean.
@@ -50,32 +137,6 @@ Ming Gao, Leihui Chen, Xiangnan He, and Aoying Zhou.
   Development in Information Retrieval - SIGIR '18}, pages 715--724, New York,
   New York, USA, 2018. ACM Press.
 
-\bibitem{Balabanovic1997}
-Marko Balabanovi{\'{c}} and Yoav Shoham.
-\newblock {Fab: content-based, collaborative recommendation}.
-\newblock {\em Communications of the ACM}, 40(3):66--72, mar 2002.
-
-\bibitem{Zhang2010}
-Walter Carrer-Neto, Mar{\'{i}}a~Luisa Hern{\'{a}}ndez-Alcaraz, Rafael
-  Valencia-Garc{\'{i}}a, and Francisco Garc{\'{i}}a-S{\'{a}}nchez.
-\newblock {Social knowledge-based recommender system. Application to the movies
-  domain}.
-\newblock {\em Expert Systems with Applications}, 39(12):10990--11000, apr
-  2012.
-
-\bibitem{Wu2017}
-Libing Wu, Cong Quan, Chenliang Li, Qian Wang, and Bolong Zheng.
-\newblock {A Context-Aware User-Item Representation Learning for Item
-  Recommendation}.
-\newblock 2017.
-
-\bibitem{Perozzi2014}
-Bryan Perozzi, Rami Al-Rfou, and Steven Skiena.
-\newblock {Deepwalk: Online learning of social representations}.
-\newblock In {\em Proceedings of the 20th ACM SIGKDD international conference
-  on Knowledge discovery and data mining - KDD '14}, pages 701--710, New York,
-  New York, USA, 2014. ACM Press.
-
 \bibitem{Barkan2016}
 Oren Barkan and Noam Koenigstein.
 \newblock {ITEM2VEC: Neural item embedding for collaborative filtering}.
@@ -88,93 +149,10 @@ Marina B{\"{a}}hrle-Rapp and Marina B{\"{a}}hrle-Rapp.
 \newblock In {\em Springer Lexikon Kosmetik und K{\"{o}}rperpflege}, pages
   323--323. ACM Press, New York, New York, USA, 2010.
 
-\bibitem{Jannach2013}
-Dietmar Jannach, Markus Zanker, Alexander Felfernig, Gerhard Friedrich, Dietmar
-  Jannach, Markus Zanker, Alexander Felfernig, and Gerhard Friedrich.
-\newblock {Content-based recommendation}.
-\newblock In {\em Recommender Systems}, pages 51--80. 2013.
-
-\bibitem{Bhagavatula2018}
-Chandra Bhagavatula, Sergey Feldman, Russell Power, and Waleed Ammar.
-\newblock {Content-Based Citation Recommendation}.
-\newblock {\em Proceedings of the 2018 Conference of the North American Chapter
-  of the Association for Computational Linguistics: Human Language
-  Technologies, Volume 1 (Long Papers)}, pages 238--251, 2018.
-
-\bibitem{Sarwar2001a}
-Badrul Sarwar, George Karypis, Joseph Konstan, and J.~Riedl.
-\newblock {Item-based collaborative filtering recommendation algorithms}.
-\newblock {\em Proceedings of the 10th {\ldots}}, 2001.
-
-\bibitem{Wang2017}
-Ximeng Wang, Yun Liu, Guangquan Zhang, Yi~Zhang, Hongshu Chen, and Jie Lu.
-\newblock {Mixed Similarity Diffusion for Recommendation on Bipartite
-  Networks}.
-\newblock {\em IEEE Access}, 5:21029--21038, 2017.
-
 \bibitem{Liu2009}
 Jie Liu, Mingsheng Shang, and Duanbing Chen.
 \newblock {Personal recommendation based on weighted bipartite networks}.
 \newblock In {\em 6th International Conference on Fuzzy Systems and Knowledge
   Discovery, FSKD 2009}, volume~5, pages 134--137. IEEE, 2009.
-
-\bibitem{Koren2009}
-Yehuda Koren, Robert Bell, and Chris Volinsky.
-\newblock {Matrix factorization techniques for recommender systems}.
-\newblock {\em Computer}, 42(8):30--37, aug 2009.
-
-\bibitem{Yu2018}
-Lu~Yu, Chuxu Zhang, Shichao Pei, Guolei Sun, and Xiangliang Zhang.
-\newblock {WalkRanker: A Unified Pairwise Ranking Model With Multiple Relations
-  for Item Recommendation}.
-\newblock {\em AAAI}, 2018.
-
-\bibitem{Pongnumkul2018}
-Suchit Pongnumkul and Kazuyuki Motohashi.
-\newblock {A bipartite fitness model for online music streaming services}.
-\newblock {\em Physica A: Statistical Mechanics and its Applications}, 2018.
-
-\bibitem{Salakhutdinov2007}
-R~Salakhutdinov and A~Mnih.
-\newblock {Probabilistic Matrix Factorization}.
-\newblock In {\em Proc. Advances in Neural Information Processing Systems 2007
-  (NIPS 07)}, 2007.
-
-\bibitem{Koren2008}
-Yehuda Koren.
-\newblock {Factorization meets the neighborhood: a multifaceted collaborative
-  filtering model}.
-\newblock In {\em Proceedings of the 14th ACM SIGKDD international conference
-  on Knowledge discovery and data mining}, 2008.
-
-\bibitem{Vig2008}
-Jesse Vig, Shilad Sen, and John Riedl.
-\newblock {Tagsplanations: Explaining Recommendations Using Tags}.
-\newblock {\em Proceedingsc of the 13th international conference on Intelligent
-  user interfaces - IUI '09}, 2008.
-
-\bibitem{Meteren2000}
-Robin~Van Meteren and Maarten~Van Someren.
-\newblock {Using Content-Based Filtering for Recommendation}.
-\newblock In {\em Proceedings of the Machine Learning in the New Information
-  Age: MLnet/ECML2000 Workshop}, pages 47--56, 2000.
-
-\bibitem{Y2009}
-Koren Y, Bell R, and Volinsky C.
-\newblock {Matrix Factorization Techniques for Recommender Systems}.
-\newblock {\em Computer}, 42(8):30--37, 2009.
-
-\bibitem{Zheng2011}
-Yong Zheng.
-\newblock {Matrix Factorization In Recommender Systems}.
-\newblock {\em Journal of Physics A: Mathematical and Theoretical},
-  44(8):085201, 2011.
-
-\bibitem{Vozalis2004}
-Manolis Vozalis and Konstantinos~G. Margaritis.
-\newblock {On the combination of user-based and item-based collaborative
-  filtering}.
-\newblock {\em International Journal of Computer Mathematics},
-  81(9):1077--1096, 2004.
 
 \end{thebibliography}
