@@ -3,47 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: elegantpaper-cn.aux
 The style file: unsrt.bst
 Database file #1: wpref.bib
-Warning--empty publisher in Jannach2013
-Warning--empty journal in Mikolov2013
-You've used 26 entries,
+You've used 18 entries,
             1791 wiz_defined-function locations,
-            617 strings with 8819 characters,
-and the built_in function-call counts, 7331 in all, are:
-= -- 694
-> -- 299
-< -- 16
-+ -- 109
-- -- 83
-* -- 441
-:= -- 1071
-add.period$ -- 86
-call.type$ -- 26
-change.case$ -- 26
+            565 strings with 7047 characters,
+and the built_in function-call counts, 4749 in all, are:
+= -- 440
+> -- 203
+< -- 9
++ -- 74
+- -- 56
+* -- 284
+:= -- 714
+add.period$ -- 59
+call.type$ -- 18
+change.case$ -- 18
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 378
-empty$ -- 690
-format.name$ -- 83
-if$ -- 1723
+cite$ -- 18
+duplicate$ -- 244
+empty$ -- 452
+format.name$ -- 56
+if$ -- 1107
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 26
-newline$ -- 133
-num.names$ -- 26
-pop$ -- 101
+int.to.str$ -- 18
+missing$ -- 18
+newline$ -- 93
+num.names$ -- 18
+pop$ -- 67
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 235
+skip$ -- 142
 stack$ -- 0
-substring$ -- 472
-swap$ -- 147
-text.length$ -- 16
+substring$ -- 277
+swap$ -- 87
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 72
-width$ -- 28
-write$ -- 293
-(There were 2 warnings)
+warning$ -- 0
+while$ -- 44
+width$ -- 20
+write$ -- 203
