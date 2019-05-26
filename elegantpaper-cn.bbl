@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}
 
+\bibitem{Vig2008}
+Jesse Vig, Shilad Sen, and John Riedl.
+\newblock {Tagsplanations: Explaining Recommendations Using Tags}.
+\newblock {\em Proceedingsc of the 13th international conference on Intelligent
+  user interfaces - IUI '09}, 2008.
+
 \bibitem{Linden2003}
 Greg Linden, Brent Smith, and Jeremy York.
 \newblock {Amazon.com recommendations: Item-to-item collaborative filtering}.
@@ -66,11 +72,6 @@ Marina B{\"{a}}hrle-Rapp and Marina B{\"{a}}hrle-Rapp.
 \newblock In {\em Springer Lexikon Kosmetik und K{\"{o}}rperpflege}, pages
   323--323. ACM Press, New York, New York, USA, 2010.
 
-\bibitem{Qiu2011}
-Tian Qiu, Guang Chen, Zi~Ke Zhang, and Tao Zhou.
-\newblock {An item-oriented recommendation algorithm on cold-start problem}.
-\newblock {\em EPL}, 95(5):58003, sep 2011.
-
 \bibitem{Koren2008}
 Yehuda Koren.
 \newblock {Factorization meets the neighborhood: a multifaceted collaborative
@@ -100,10 +101,5 @@ Ming Gao, Leihui Chen, Xiangnan He, and Aoying Zhou.
 \newblock In {\em The 41st International ACM SIGIR Conference on Research {\&}
   Development in Information Retrieval - SIGIR '18}, pages 715--724, New York,
   New York, USA, 2018. ACM Press.
-
-\bibitem{Liao2018}
-Lizi Liao, Xiangnan He, Hanwang Zhang, and Tat~Seng Chua.
-\newblock {Attributed Social Network Embedding}.
-\newblock {\em IEEE Transactions on Knowledge and Data Engineering}, 2018.
 
 \end{thebibliography}
